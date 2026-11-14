@@ -1,0 +1,8 @@
+{
+  "name": "glp1-buyerguide-prices",
+  "displayName": "GLP-1 Buyer Guide Prices",
+  "version": "1.1.0",
+  "description": "Month-to-month GLP-1 prices checked by GLP-1 Buyer Guide, with sources and check dates.",
+  "homepage": "https://glp1buyerguide.com",
+  "mcpServers": "mcp.json"
+}
