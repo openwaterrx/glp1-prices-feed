@@ -1,0 +1,10 @@
+{
+  "name": "glp1-buyerguide-prices",
+  "version": "1.1.0",
+  "description": "Month-to-month GLP-1 prices checked by GLP-1 Buyer Guide, with sources and check dates.",
+  "mcpServers": {
+    "glp1-prices": {
+      "httpUrl": "https://prices.glp1buyerguide.com/mcp"
+    }
+  }
+}
